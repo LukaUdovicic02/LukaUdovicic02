@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Luka Udovicic</h1>
+
 # 💫 About Me:
 🔎 I'm looking for a internship<br>💻 I'm currently learning React.js , Next.js and TailwindCSS<br>✉️ Ask me about React , C# , Java , Blazor <br>📭 Can be easily reached via mail : lukaudovicic10@gmail.com
 
