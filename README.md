@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔎 I'm looking for a internship<br>💻 I'm currently learning React.js , Next.js and TailwindCSS<br>✉️ Ask me about React , C# , Java , Blazor <br>📭 Can be easily reached via mail : lukaudovicic10@gmail.com
+🔎 I'm looking for a student job<br>💻 I'm currently learning React.js , Next.js and TailwindCSS<br>✉️ Ask me about React , C# , Java , Blazor <br>📭 Can be easily reached via mail : lukaudovicic10@gmail.com
 
 
 ## 🌐 Socials:
