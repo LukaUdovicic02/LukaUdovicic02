@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Luka Udovicic</h1>
 
-<h3 align="center">Software Engineering student, a solution oriented software developer with experience in many different areas of software development. My passion for software development comes from my satisfaction with overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole</h3>
+<h3 align="center">Software Engineering Graduate, a solution oriented software engineer with experience in many different areas of software development. My passion for software development comes from my satisfaction with overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole</h3>
 
 
 # 💫 About Me:
-🔎 I'm looking for a student job<br>💻 I'm currently learning React.js , Next.js and TailwindCSS<br>✉️ Ask me about React , C# , Java , Blazor <br>📭 Can be easily reached via mail : lukaudovicic10@gmail.com
+🔎 I'm looking for a job<br>💻 I'm currently learning Next.js and TailwindCSS<br>✉️ Ask me about React.js, Vue.js , .NET C# , Java , TypeScript ,Java <br>📭 Can be easily reached via mail : lukaudovicic10@gmail.com
 
 
 ## 🌐 Socials:
