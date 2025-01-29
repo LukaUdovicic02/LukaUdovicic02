@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔎 I'm looking for a job<br>💻 I'm currently learning Next.js and TailwindCSS<br>✉️ Ask me about React.js, Vue.js , .NET C# , Java , TypeScript ,Java <br>📭 Can be easily reached via mail : lukaudovicic10@gmail.com
+🔎 I'm looking for a job<br>💻 I'm currently learning Next.js and TailwindCSS<br>✉️ Ask me about React.js, Vue.js , .NET C# , Java , TypeScript , Azure , Docker , CI/CD <br>📭 Can be easily reached via mail : lukaudovicic10@gmail.com
 
 
 ## 🌐 Socials:
